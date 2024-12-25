@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer and WordPress website designer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
+  <img src="https://profile-counter.glitch.me/albrud199/count.svg" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albrud199" alt="albrud199" /></a> </p>
