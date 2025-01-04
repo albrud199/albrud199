@@ -11,17 +11,16 @@
 🔭 I’m currently working on as a CSE student<br>👯 I’m looking to collaborate on WordPress website designer<br>🤝 I’m looking for help with C,C++,JAVA, WordPress<br>🌱 I’m currently learning C,C++,JAVA,DSA<br>💬 Ask me about C,C++,JAVA,DSA, WordPress<br>⚡ Fun fact I always like to learn new things <br>📫 How to reach me **2023-1-60-212@std.ewubd.edu**
 
 
+<!--
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/albin rudro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albin rudro" height="30" width="40" /></a>
 <a href="https://www.behance.net/albin rudro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="albin rudro" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/albin_rudro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="albin_rudro" height="30" width="40" /></a>
 </p>
-
+-->
 
 # 🧰 Languages and Tools:
-
- 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
