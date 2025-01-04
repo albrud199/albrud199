@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Albin Rudro</h1>
-<h3 align="center">A passionate programmer and WordPress website designer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Albin Rudro</h1>
+<h2 align="left"> A passionate programmer and WordPress website designer from Bangladesh</h2>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albrud199" alt="albrud199" /></a> </p>
