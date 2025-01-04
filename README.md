@@ -11,7 +11,7 @@
 🔭 I’m currently working on as a CSE student<br>👯 I’m looking to collaborate on WordPress website designer<br>🤝 I’m looking for help with C,C++,JAVA, WordPress<br>🌱 I’m currently learning C,C++,JAVA,DSA<br>💬 Ask me about C,C++,JAVA,DSA, WordPress<br>⚡ Fun fact I always like to learn new things <br>📫 How to reach me **2023-1-60-212@std.ewubd.edu**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/albin rudro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albin rudro" height="30" width="40" /></a>
 <a href="https://www.behance.net/albin rudro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="albin rudro" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+# 🧰 Languages and Tools:
 
  
 
@@ -55,15 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
-
-
 
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albrud199&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albrud199&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
@@ -73,7 +68,7 @@
 
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=albrud199&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
