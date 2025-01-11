@@ -84,8 +84,12 @@
 
 
 ## 🔝 Top Contributed Repo
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=albrud199&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+</div>
 
 ---
 
