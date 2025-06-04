@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Albin Rudro</h1>
-<h2 align="left"> A passionate programmer and WordPress website designer from Bangladesh</h2>
+<h2 align="left"> A Passionate Programmer and WordPress Website Designer From Bangladesh</h2>
 
 
 
