@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Albin Rudro</h1>
-<h2 align="left"> A Passionate Programmer and WordPress Website Designer From Bangladesh</h2>
+
+## I am a **Computer Science and Engineering** student with academic training in _**Data Science**_, _**Artificial Intelligence**_, and _**Machine Learning Engineer**_ from **Bangladesh**.
 
 
 
