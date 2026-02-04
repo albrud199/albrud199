@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on as a CSE student<br>👯 I’m looking to collaborate on WordPress website designer<br>🤝 I’m looking for help with C,C++,JAVA, WordPress<br>🌱 I’m currently learning C,C++,JAVA,DSA<br>💬 Ask me about C,C++,JAVA,DSA, WordPress, Python, Django, HTML, CSS<br>⚡ Fun fact I always like to learn new things <br>📫 How to reach me **2023-1-60-212@std.ewubd.edu**
+🔭 I’m currently working on as a CSE student<br>👯 I’m looking to collaborate on WordPress website designer<br>🤝 I’m looking for help with C,C++,JAVA, WordPress<br>🌱 I’m currently learning C,C++,JAVA,DSA<br>💬 Ask me about C,C++,JAVA,DSA, WordPress, Python, Django, HTML, CSS<br>⚡ Fun fact I always like to learn new things <br>📫 How to reach me **rudroalbin21@gmail.com**
 
 
 <!--
