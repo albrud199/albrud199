@@ -1,7 +1,7 @@
 <h1 align="middle">Hi 👋, I'm Albin Rudro</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/albrud199/albrud199/aa9e45ac9b37129b49b722d08540d6237673d9ad/ai-banner.png" alt="AI Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/albrud199/albrud199/aa9e45ac9b37129b49b722d08540d6237673d9ad/ai-banner.png" alt="AI Banner" height="700" width="200%" />
 </div>
 
 
