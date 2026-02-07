@@ -1,22 +1,121 @@
-<h1 align="center">Hi 👋, I'm Albin Rudro</h1>
+<!--
+  ✨ Optimized for GitHub – clean, responsive, and visually compelling.
+  🎨 Uses native Markdown + HTML for maximum compatibility.
+-->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=E0E5E5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Albin+Rudro" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <!-- Core Research Areas -->
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/🤖_Machine_Learning-Researcher-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/👁️_Computer_Vision-Visionary-4ECDC4?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/🧠_Deep_Learning-Architect-45B7D1?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/🖼️_DIP-Expert-96CEB4?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  
+  <!-- Research Specialties -->
+  <br/>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/Multimodal_AI-Fusion_Research-F9A825?style=flat-square&logo=openai&logoColor=black" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/Neural_Networks-Architecture_Design-8E44AD?style=flat-square&logo=onnx&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/Transformers-Attention_Mechanisms-3498DB?style=flat-square&logo=huggingface&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/Generative_AI-Creative_Systems-E74C3C?style=flat-square&logo=stable-diffusion&logoColor=white" />
+  </a>
+  
+  <!-- Technical Stack -->
+  <br/>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/PyTorch-Lightning_&_Torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/TensorFlow-Keras_&_TF_Data-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/OpenCV-CUDA_Accelerated-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  </a>
+  <a href="#-research-profile">
+    <img src="https://img.shields.io/badge/Scikit_Learn-ML_Pipelines-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  </a>
+</p>
+
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/albrud199/albrud199/aa9e45ac9b37129b49b722d08540d6237673d9ad/ai-banner.png" 
        alt="AI Banner" 
-       style="width: 75%; max-height: 350px; object-fit: contain;" />
+       style="width: 75%; max-height: 350px; object-fit: contain; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </div>
 
-## I am a **Computer Science and Engineering** student with academic training in _**Data Science**_, _**Artificial Intelligence**_, and _**Machine Learning Engineer**_ from **Bangladesh**.
+<p align="center">
+  <em>Artificial Intelligence & Machine Learning Researcher</em> based in 📍 <b>Bangladesh</b> 🇧🇩
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=albrud199&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albrud199&label=Profile%20views&color=0e75b6&style=flat" alt="albrud199" />  </p> 
+## 🔬 Research Profile
 
+I focus on advancing **data-driven intelligent systems** through principled machine learning, statistical modeling, and scalable AI architectures.
 
+My work integrates:
+- 🤖 **Machine Learning & Deep Learning**  
+- 📈 **Optimization & Statistical Learning Theory** (applied foundations)  
+- 👁️ **Computer Vision & Image Analysis**  
+- 🔄 **Multimodal Representation Learning**  
+- ⚙️ **Large-Scale Data Systems**
 
-# 💫 About Me:
-🔭 I’m currently working on as a CSE student<br>👯 I’m looking to collaborate on WordPress website designer<br>🤝 I’m looking for help with C,C++,JAVA, WordPress<br>🌱 I’m currently learning C,C++,JAVA,DSA<br>💬 Ask me about C,C++,JAVA,DSA, WordPress, Python, Django, HTML, CSS<br>⚡ Fun fact I always like to learn new things <br>📫 How to reach me **rudroalbin21@gmail.com**
+> I aim to design **robust, generalizable, and computationally efficient learning frameworks** that bridge theoretical rigor and real-world deployment.
 
+---
+
+## 🌍 Global Research Alignment
+
+### 🇺🇸 Top US ML Labs  
+My interests align with core themes in leading US PhD programs:
+- Generalization under distribution shift  
+- Learning with limited / noisy supervision  
+- Multimodal Vision-Language Models  
+- Efficient & scalable deep learning  
+- Interpretable and trustworthy AI  
+
+🎯 Target venues: **NeurIPS · ICML · CVPR**
+
+### 🇪🇺 European Applied AI Programs  
+Equally passionate about applied, industry-integrated research:
+- Scalable ML system design  
+- AI for Healthcare & Medical Imaging  
+- Data-centric AI pipelines  
+- Real-world deployment at scale  
+
+---
+
+## 🎯 Doctoral Research Objective
+
+> **To advance multimodal and intelligent learning systems**—contributing both *methodological innovation* and *scalable AI solutions* for high-impact domains like healthcare and large-scale data environments.
+
+<div align="center">
+  <blockquote>
+    “Advancing machine learning through principled research and scalable intelligent systems that bridge data, learning, and real-world impact.”
+  </blockquote>
+</div>
 
 <!--
 # 🌐 Socials:
