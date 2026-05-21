@@ -208,6 +208,17 @@ Equally passionate about applied, industry-integrated research:
 </div>
 
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albrud199&theme=moltack" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albrud199&theme=moltack" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albrud199&theme=moltack" />
+</p>
+
+
+
 # 📊 GitHub Stats:
 
 
