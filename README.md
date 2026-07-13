@@ -209,7 +209,7 @@ Equally passionate about applied, industry-integrated research:
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp; GitHub Stats:
 
 <p align="center">
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albrud199&theme=moltack" />
@@ -219,15 +219,15 @@ Equally passionate about applied, industry-integrated research:
 
 
 
-# 📊 GitHub Stats:
 
 
-<div align="center">
+
+<!-- <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=albrud199&show_icons=true&theme=tokyonight" width="550"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albrud199&layout=compact&theme=tokyonight" width="450"/>
 
-</div>
+</div> 
 
 
 ## 🔝 Top Contributed Repo
@@ -238,7 +238,8 @@ Equally passionate about applied, industry-integrated research:
 
 </div>
 
----
+--- 
+-->
 
 
 
