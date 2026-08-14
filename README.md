@@ -55,7 +55,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/albrud199/albrud199/aa9e45ac9b37129b49b722d08540d6237673d9ad/ai-banner.png" 
        alt="AI Banner" 
-       style="width: 75%; max-height: 350px; object-fit: contain; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+       style="width: 30%; max-height: 30; object-fit: contain; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </div>
 
 <p align="center">
